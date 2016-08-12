@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CRASHLYTICS_API_KEY</key>
+	<string>528a93fd994aa54ecb46038e4d326ba007e5ff1d</string>
+	<key>NEW_RELIC_APPLICATION_TOKEN</key>
+	<string>AA10850d49d22f92981c64e02a46a63f3df9bd254b</string>
+	<key>GOOGLE_ANALYTICS_TRACKING_ID</key>
+	<string>UA-50609829-2</string>
+	<key>GOOGLE_API_KEY</key>
+	<string>AIzaSyAKwncTViXq6WG0azb51NxF2098FX-tNag</string>
+	<key>ATLAS_SERVICE_URL</key>
+	<string>http://localhost:8080/atlas</string>
+	<key>ATLAS_OPERATE_SERVICE_URL</key>
+	<string>http://localhost:8082/atlasoperate/api/v1</string>
+	<key>AUDITOR_SERVICE_URL</key>
+	<string>http://localhost:8081/atlasauditor</string>
+	<key>ATLAS_ACCESS_TOKEN_URL</key>
+	<string>http://localhost:8080/atlas/access/token</string>
+	<key>AUDITOR_ACCESS_TOKEN_URL</key>
+	<string>http://localhost:8081/atlasauditor/access/token</string>
+	<key>APP_DISTRIBUTION_URL</key>
+	<string>http://localhost:8080/mobile_activation/service/v1/checkForUpdate</string>
+	<key>SUPPORT_EMAIL_ADDRESS</key>
+	<string>AtlasSupportTeam@nbnco.com.au</string>
+	<key>HERE_COM_MAP_TILES_APP_ID</key>
+	<string>8ztdES2WKyjQ5iR6gO2l</string>
+	<key>HERE_COM_MAP_TILES_APP_CODE</key>
+	<string>q2tShEavuWjpSBjClGdZbQ</string>
+	<key>HERE_COM_MAP_TILES_URL_FORMAT</key>
+	<string>http://%i.base.maps.cit.api.here.com</string>
+	<key>AUTHORIZATION_REQUIRED_FOR_UPDATE</key>
+	<true/>
+	<key>CHECK_FOR_UPDATE</key>
+	<false/>
+</dict>
+</plist>
